@@ -1,3 +1,7 @@
+# pro user
+*.pro.user
+**/*.pro.user
+
 # Prerequisites
 *.d
 
